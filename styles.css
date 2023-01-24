@@ -57,8 +57,9 @@ h2{
   border-radius: 5px;
   position: relative;
   overflow: hidden;
-  color: white;
+  color: #4d4f60;
   margin-bottom: 10px;
+  background-color: white;
 }
 .card h2{
     display: block;
